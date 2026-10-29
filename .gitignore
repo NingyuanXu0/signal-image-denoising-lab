@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+outputs/
+*.mat
+*.asv
+*.m~
+*.fig
+*.png
+*.jpg
+*.pdf
+*.zip
